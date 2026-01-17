@@ -1,0 +1,14 @@
+/setup.php
+/login.php
+/security.php
+/vulnerabilities
+/vulnerabilities/brute/
+/vulnerabilities/exec/
+/vulnerabilities/fi/ 
+/vulnerabilities/sqli/ 
+/vulnerabilities/upload/
+/vulnerabilities/xss_r/
+/vulnerabilities/xss_s/ 
+/vulnerabilities/view_source.php
+/vulnerabilities/weak_session_ids/
+/robots.txt 
